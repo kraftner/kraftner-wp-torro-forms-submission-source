@@ -1,0 +1,13 @@
+version: '3.3'
+
+services:
+
+  gulp:
+    build:
+      context: .
+      dockerfile: Dockerfile-gulp
+    user: 1000:1000
+    working_dir: /usr/var/app/kraftner-wp-torro-forms-submission-source
+    volumes:
+      - .:/usr/var/app/kraftner-wp-torro-forms-submission-source/
+    command: ./node_modules/.bin/gulp watch
