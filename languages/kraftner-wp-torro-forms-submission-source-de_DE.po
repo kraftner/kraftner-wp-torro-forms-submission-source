@@ -19,11 +19,17 @@ msgstr ""
 "x-poedit-sourcecharset: uft-8\n"
 "x-textdomain-support: yes\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
 
 #: src/element-types/submission-source.php:43
 msgid "Submission Source"
-msgstr ""
+msgstr "Eintragsquelle"
 
 #: src/element-types/submission-source.php:44
 msgid "A field storing the submission source."
-msgstr ""
+msgstr "Ein Feld dass die Quelle des Eintrags speichert."
