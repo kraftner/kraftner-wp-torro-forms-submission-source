@@ -1,6 +1,6 @@
 {
   "name": "@kraftner/wp-torro-forms-submission-source",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin for Torro Forms that adds a field that stores the source of the submission.",
   "keywords": [
     "wordpress",
